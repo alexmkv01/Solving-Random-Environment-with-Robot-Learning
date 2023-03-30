@@ -31,8 +31,8 @@ During the training phase, the algorithm balances physical movement with plannin
 
 ## Running the code
 1) Clone this repository to your local machine using git clone.
-2)Navigate to the project directory.
-3)Install the necessary dependencies by running pip install -r requirements.txt.
+2) Navigate to the project directory.
+3) Install the necessary dependencies by running pip install -r requirements.txt.
 4) Run the program using python robot-learning.py.
 
 
